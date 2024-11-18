@@ -38,7 +38,6 @@ This repository is organized as follows:
 
 - **`table_of_figures.md`**: A table listing all the figures from the *NKS* book, with links to their corresponding pages and status (updated or pending).  
 - **`code/`**: Contains directories for the updated Wolfram Language code files, categorized by chapter.  
-- **`contribution_guidelines.md`**: Detailed instructions on how to contribute to the project.  
 - **`resources/`**: Supplemental materials, including links to the *NKS* book and documentation on the Wolfram Language.  
 
 ---
