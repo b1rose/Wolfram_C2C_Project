@@ -37,7 +37,7 @@ We welcome and encourage contributions to this project! Here’s how you can hel
 This repository is organized as follows:  
 
 - **`Wolfram_NKS_C2C_List.md`**: A table listing all the figures from the *NKS* book, with links to their corresponding pages and status (updated or pending).  
-- **`code/`**: Contains directories for the updated Wolfram Language code files, categorized by chapter.  
+- **`code/`**: Contains directories for the updated Wolfram Language code files.  
 
 ---
 
